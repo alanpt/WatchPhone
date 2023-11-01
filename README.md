@@ -77,6 +77,6 @@ Google Keep works well.
 ## Contributing
 Feel free to contribute by submitting pull requests or by adding issues for additional smartwatches you'd like to see covered.
 
-
+![sci-fi-watches-lead-1594243660](https://github.com/alanpt/WatchPhone/assets/9862287/9228ba83-3474-4e10-b1be-17b3df45b211)
 
 Hope that helps! Feel free to modify as you see fit. Cheers! 🌿
