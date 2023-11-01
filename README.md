@@ -28,7 +28,7 @@ Here's a checklist of features that should ideally be supported by the smartwatc
 
 ---
 
-## Setting Up Your Galaxy Watch 5
+## Setting Up Your Galaxy Watch 5 (OJMA)
 Here's the current status of Essential features for the Galaxy Watch 5:
 
 - [X] Spotify
@@ -69,8 +69,12 @@ Options are available.
 ### 📒 Notetaking
 Google Keep works well.
 
-
-**Tip**: In Galaxy Wearables settings, disable all notifications coming from the phone.
+## Tips
+### Notifications
+- Disable all the Phone notifications in the phone's Galaxy Wearables settings.
+- Hide status updates on the op of the screen. Go to settings, Advanced features, Staus indicators, select 'Hide after 2 seconds'.
+### Power saving
+- Clearing Cache - In the bootloader there is a Recovery option and within that is the wipe cache option. Be careful!
 
 ---
 
