@@ -11,6 +11,7 @@ Smartphones are great, but they can also be incredibly distracting. Using a smar
 1. **Complete Independence from Smartphone**: Your smartwatch should be able to function without needing to sync to your phone.
 2. **Essential Features Only**: Prioritize features that you'll actually use and that enhance, rather than detract from, your life.
 3. **Easy to Use**: The use of the watch should be as simple and immediate as possible.
+4. **Long Battery Life**: As long as possible
 
 
 ## Essential Features
@@ -26,6 +27,7 @@ Here's a checklist of features that should ideally be supported by the smartwatc
 - 📧 Email
 - 📒 Notetaking
 
+Not essential: Health features and notifications.
 ---
 
 ## Setting Up Your Galaxy Watch 5 (OJMA)
