@@ -1,18 +1,23 @@
 # Standalone WatchPhone Framework
 
-🕒 Ditch your smartphone, not its functionalities. This guide will help with transitioning to using a smartwatch as your primary device, independant from needing a smartphone. We're starting with the Galaxy Watch 5, but we're open to adding more models. Say goodbye to doom scrolling, hello to focused tech!
+🕒 Ditch your smartphone, not its functionalities. 
+This guide will help with transitioning to using a smartwatch as your primary device, independant from needing a smartphone. Starting with the Galaxy Watch 5, but open to adding other watches.
 
 
 ## Why Go Standalone?
-Smartphones are great, but they can also be incredibly distracting. Using a smartwatch as a standalone device gives you essential functionalities without the temptation to dive into endless social media feeds or aimless games.
+Smartphones are great, but they can also be incredibly distracting. Using a smartwatch as a standalone device gives you essential functionalities without the temptation to dive into endless social media feeds or aimless gaming.
 
 
 ## Key Goals
-1. **Complete Independence from Smartphone**: Your smartwatch should be able to function without needing to sync to your phone.
-2. **Essential Features Only**: Prioritize features that you'll actually use and that enhance, rather than detract from, your life.
-3. **Easy to Use**: The use of the watch should be as simple and immediate as possible.
+1. **Complete Independence** from Smartphone: The smartwatch should be able to function without needing to sync to your phone.
+2. **Essential Features** only: Prioritize features that you'll actually use and that enhance, rather than detract from, your life.
+3. **Ease of Use**: The use of the watch should be as simple and immediate as possible.
 4. **Long Battery Life**: As long as possible
 
+## Complete Independence**
+There are non-brand watches that just require a sim card, but I have not tested those. The Galaxe Smart watch that has an eSim unfortunatly does need initial setting up on a smartphone. However that smartphone does not need to have a phone contract or sim in it.  With my contract - the phone and data is cheaper off the watch then it is off the phone, as the Mobile Company assumes you are paying for a contract on your phone too. The sales reps were confused about why I would have only a contract on my watch.
+
+:Note The Galaxy Watch does not let you hotspot from it.
 
 ## Essential Features
 Here's a checklist of features that should ideally be supported by the smartwatch to make it a viable standalone device:
@@ -28,6 +33,7 @@ Here's a checklist of features that should ideally be supported by the smartwatc
 - 📒 Notetaking
 
 Not essential: Health features and notifications.
+
 ---
 
 ## Setting Up Your Galaxy Watch 5 (OJMA)
