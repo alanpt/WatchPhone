@@ -5,7 +5,7 @@ This guide will help with transitioning to using a smartwatch as your primary de
 
 
 ## Why Go Standalone?
-Smartphones are great, but they can also be incredibly distracting. Using a smartwatch as a standalone device gives you essential functionalities without the temptation to dive into endless social media feeds or aimless gaming.
+Using a smartwatch as a standalone device gives you essential functionalities without the temptation to dive into endless social media feeds or aimless gaming.
 
 
 ## Key Goals
@@ -15,7 +15,7 @@ Smartphones are great, but they can also be incredibly distracting. Using a smar
 4. **Long Battery Life**: As long as possible
 
 ## Complete Independence**
-There are non-brand watches that just require a sim card, but I have not tested those. The Galaxe Smart watch that has an eSim unfortunatly does need initial setting up on a smartphone. However that smartphone does not need to have a phone contract or sim in it.  With my contract - the phone and data is cheaper off the watch then it is off the phone, as the Mobile Company assumes you are paying for a contract on your phone too. The sales reps were confused about why I would have only a contract on my watch.
+There are non-brand watches that just require a sim card, but I have not tested those. The Galaxy Smart watch that has an eSim unfortunatly does need initial setting up on a smartphone. 
 
 :Note The Galaxy Watch does not let you hotspot from it.
 
@@ -40,13 +40,13 @@ Not essential: Health features and notifications.
 Here's the current status of Essential features for the Galaxy Watch 5:
 
 - [X] Spotify
-- [ ] Map with GPS Location
+- [x] Map with GPS Location
 - [X] SMS
 - [X] Phone Calls
 - [ ] Facebook Messenger
-- [X] WhatsApp
+- [?] WhatsApp
 - [ ] Slack
-- [ ] Email
+- [x] Email
 - [x] Notetaking
 
 
@@ -54,7 +54,7 @@ Here's the current status of Essential features for the Galaxy Watch 5:
 Spotify is available on Google Play Store. Can be a bit confusing to use, but does allow you to use spotify connect and to like tracks.
 
 ### 🗺️ Map with GPS Location
-Google Maps needs to be connected to phone.
+Google Maps.
 
 ### 📱 SMS
 Has Native Support
@@ -72,15 +72,15 @@ Available on Google Play store; needs one-time setup via phone app
 Currently unavailable (Could be sideloaded options - I need to investigate)
 
 ### 📧 Email
-Options are available. 
+Gmail works. 
 
 ### 📒 Notetaking
-Google Keep works well.
+Google Keep works very well.
 
 ## Tips
 ### Notifications
 - Disable all the Phone notifications in the phone's Galaxy Wearables settings.
-- Hide status updates on the op of the screen. Go to settings, Advanced features, Staus indicators, select 'Hide after 2 seconds'.
+- Hide status updates on the top of the screen. Go to settings, Advanced features, Staus indicators, select 'Hide after 2 seconds'.
 ### Power saving
 - Clearing Cache - In the bootloader there is a Recovery option and within that is the wipe cache option. Be careful!
 
