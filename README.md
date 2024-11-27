@@ -1,6 +1,7 @@
 # Standalone WatchPhone Framework
 
 🕒 Ditch your smartphone, not its functionalities. 
+
 This guide will help with transitioning to using a smartwatch as your primary device, independant from needing a smartphone. Starting with the Galaxy Watch 5, but open to adding other watches.
 
 
@@ -81,6 +82,7 @@ Google Keep works very well.
 ### Notifications
 - Disable all the Phone notifications in the phone's Galaxy Wearables settings.
 - Hide status updates on the top of the screen. Go to settings, Advanced features, Staus indicators, select 'Hide after 2 seconds'.
+
 ### Power saving
 - Clearing Cache - In the bootloader there is a Recovery option and within that is the wipe cache option. Be careful!
 
