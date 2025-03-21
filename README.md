@@ -1,3 +1,15 @@
+
+**So this Experiment didn't really work out in the end. Without sounding to conspiratorial - part of me feels like its a self sabotage by Samsung and Google, as I know they could make this work if the spent time on the development. The would prefer people to use standard large touch screens as they are more addictive.**
+
+So the problems I had were:
+- **Battery life** - I could only trust the watch to last 5 hours.
+- **No Facebook Messenger or Whatsapp** - Unfortunatly these are the messaging tols people around these parts use.
+- **Inconsistant notification sounds/vibrations and ringtones** - Couldn't figure this out
+- **No hot spot** - There were times I could have used a tablet alongside it
+- **Overheating** when using Spotify and just in the NZ sun.
+
+The saddest part was that my phone plan for it was a very small $7 a month.
+
 # Standalone WatchPhone Framework
 
 🕒 Ditch your smartphone, not its functionalities. 
